@@ -15,6 +15,16 @@ We work directly with roasters to bring authentic Guji flavor to their customers
 
 ---
 
+### Our Values
+
+- 🌱 **Sustainability**: We use environmentally responsible farming practices
+- 👨‍👩‍👧‍👦 **Community**: We invest in local jobs and education
+- ✈️ **Transparency**: We work directly with roasters and exporters
+
+Whether you’re a micro-roaster or a large buyer, we’re excited to share a taste of Guji with you.
+
+---
+
 ### Why Choose MB Coffee?
 
 - 🌱 **Farm-direct transparency**
@@ -23,3 +33,5 @@ We work directly with roasters to bring authentic Guji flavor to their customers
 - 🤝 **Personal relationships with buyers**
 
 We're not just selling coffee — we’re sharing our heritage. Let's work together.
+Have questions or want to try a sample? [Contact us here](/contact/).
+
