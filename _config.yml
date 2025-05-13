@@ -17,87 +17,76 @@ title: MB Coffee
 email: mbcoffee@gmail.com
 description: >-   
   Premium Guji coffee directly from our family farm in Ethiopia.
-twitter_username: username
-github_username: username
+twitter_username: 
+github_username: 
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Output settings
+# Controls the permalink format for blog posts — you can ignore if you're not using blog posts
+permalink: /:categories/:title/
+
+# Pagination settings — disabled to avoid showing blog post feed on homepage
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+
+# Timezone (optional but recommended)
+timezone: # e.g., America/Los_Angeles
+
+# Include custom directories like _pages
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins used for features like sitemap, emoji, etc.
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
+# Author information (shown on pages if enabled)
 author:
   name   : "Aman Gedefaw"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Founder of MB Coffee – sharing Guji's best beans with the world."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gedefaws.github.io/gedefaws-mbcoffee.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    # Uncomment if you'd like to display social profiles
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
+# Footer links (displayed at the bottom of every page)
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mbcoffee@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/gedefaws"
 
+# Page defaults
 defaults:
-  # _posts
+  # Applies to all pages (unless overridden)
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
       related: true
-  # _pages
+  # Specifically for pages in the _pages folder (like home.md, about.md, etc.)
   - scope:
       path: "_pages"
       type: pages
@@ -105,6 +94,7 @@ defaults:
       layout: single
       author_profile: true
 
+# Blog archive pages — okay to keep, even if not used yet
 category_archive:
   type: liquid
   path: /categories/
