@@ -1,8 +1,14 @@
 ---
-permalink: /about/
-title: "About"
+title: "Welcome to MB Coffee"
+layout: single
+permalink: /
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### 🌱 From Guji, Ethiopia to Your Cup
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+**MB Coffee** is a family-owned business rooted in the highlands of Guji. We grow and export high-quality green coffee beans directly to specialty roasters in North America.
+
+We believe in transparency, sustainability, and traceability — and we’re proud to share our farm’s story with the world.
+
+Want to sample our beans or talk business? [Contact us](contact).
