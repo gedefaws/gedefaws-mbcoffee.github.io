@@ -2,7 +2,7 @@
 title: "Welcome to MB Coffee"
 layout: single
 permalink: /
-author_profile: true
+author_profile: false
 ---
 
 ### 🌍 From Guji to the Globe
