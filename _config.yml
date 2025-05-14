@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: MB Coffee Farm
 logo: /assets/images/mb-logo.png
+favicon: /assets/images/favicon.ico
 email: mbcoffeefarm@gmail.com
 description: >-   
   Premium Guji coffee directly from our family farm in Ethiopia.
