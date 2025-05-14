@@ -1,1 +1,27 @@
+/* Global background color */
+body {
+  background-color: #f9f8f4; /* Soft light beige */
+}
+
+/* Section styling */
+.page__content h2, .page__content h3 {
+  color: #333;
+  margin-top: 2rem;
+}
+
+.page__content {
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 1.8;
+  font-size: 1.05rem;
+  color: #333;
+}
+
+/* Add subtle section shadow for visual separation */
+.main {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+  margin-bottom: 2rem;
+}
 
