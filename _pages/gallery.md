@@ -13,46 +13,72 @@ Our farm is more than a place — it's a story of heritage, care, and quality in
 
 ---
 
-<div style="display: flex; flex-direction: column; gap: 2rem;">
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+.gallery-item {
+  text-align: center;
+}
+.gallery-item img {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+.gallery-item img:hover {
+  transform: scale(1.02);
+}
+.gallery-caption {
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.5rem;
+}
+</style>
 
-  <div>
-    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery1.jpeg" alt="Drying Beds" style="width:100%; max-width:800px; border-radius: 8px;" />
-    <p style="text-align:center;">Hand-sorting green coffee under shade for quality control</p>
+<div class="gallery-grid">
+
+  <div class="gallery-item">
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery1.jpeg" alt="Drying Beds">
+    <div class="gallery-caption">Hand-sorting green coffee under shade for quality control</div>
   </div>
 
-  <div>
-    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery2.jpeg" alt="Community Hub" style="width:100%; max-width:800px; border-radius: 8px;" />
-    <p style="text-align:center;">Our team and community gathered at the farm's hub</p>
+  <div class="gallery-item">
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery2.jpeg" alt="Community Hub">
+    <div class="gallery-caption">Our team and community gathered at the farm's hub</div>
   </div>
 
-  <div>
-    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery3.jpeg" alt="Careful Drying" style="width:100%; max-width:800px; border-radius: 8px;" />
-    <p style="text-align:center;">Careful drying ensures even moisture and quality</p>
+  <div class="gallery-item">
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery3.jpeg" alt="Careful Drying">
+    <div class="gallery-caption">Careful drying ensures even moisture and quality</div>
   </div>
 
-  <div>
-    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery4.jpeg" alt="Farm Landscape" style="width:100%; max-width:800px; border-radius: 8px;" />
-    <p style="text-align:center;">Guji’s fertile land — where it all begins</p>
+  <div class="gallery-item">
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery4.jpeg" alt="Farm Landscape">
+    <div class="gallery-caption">Guji’s fertile land — where it all begins</div>
   </div>
 
-  <div>
-    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery5.jpeg" alt="Cherries in Hand" style="width:100%; max-width:800px; border-radius: 8px;" />
-    <p style="text-align:center;">Ripe cherries, hand-picked at peak ripeness</p>
+  <div class="gallery-item">
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery5.jpeg" alt="Cherries in Hand">
+    <div class="gallery-caption">Ripe cherries, hand-picked at peak ripeness</div>
   </div>
 
-  <div>
-    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery6.jpeg" alt="Sun Drying" style="width:100%; max-width:800px; border-radius: 8px;" />
-    <p style="text-align:center;">Sun-drying cherries for flavor clarity and consistency</p>
+  <div class="gallery-item">
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery6.jpeg" alt="Sun Drying">
+    <div class="gallery-caption">Sun-drying cherries for flavor clarity and consistency</div>
   </div>
 
-  <div>
-    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery7.jpeg" alt="Raised Beds" style="width:100%; max-width:800px; border-radius: 8px;" />
-    <p style="text-align:center;">Raised beds enhance air flow for even drying</p>
+  <div class="gallery-item">
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery7.jpeg" alt="Raised Beds">
+    <div class="gallery-caption">Raised beds enhance air flow for even drying</div>
   </div>
 
-  <div>
-    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery8.jpeg" alt="Daily Inspection" style="width:100%; max-width:800px; border-radius: 8px;" />
-    <p style="text-align:center;">Daily inspections during drying for optimal results</p>
+  <div class="gallery-item">
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery8.jpeg" alt="Daily Inspection">
+    <div class="gallery-caption">Daily inspections during drying for optimal results</div>
   </div>
 
 </div>
