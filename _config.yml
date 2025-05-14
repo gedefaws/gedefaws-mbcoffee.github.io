@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MB Coffee
+title: /assets/images/mb-logo.png
 email: mbcoffee@gmail.com
 description: >-   
   Premium Guji coffee directly from our family farm in Ethiopia.
