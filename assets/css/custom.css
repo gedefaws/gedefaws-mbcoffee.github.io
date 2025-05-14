@@ -1,27 +1,43 @@
-/* Global background color */
+/* Forest green background */
 body {
-  background-color: #f9f8f4; /* Soft light beige */
+  background-color: #0b3d26; /* deep forest green */
+  color: #f5f5f5;
 }
 
-/* Section styling */
-.page__content h2, .page__content h3 {
-  color: #333;
-  margin-top: 2rem;
-}
-
-.page__content {
-  font-family: "Helvetica Neue", sans-serif;
-  line-height: 1.8;
-  font-size: 1.05rem;
-  color: #333;
-}
-
-/* Add subtle section shadow for visual separation */
+/* Content area (white card on top of green) */
 .main {
   background: #ffffff;
   padding: 2rem;
   border-radius: 10px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.03);
-  margin-bottom: 2rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.2);
+  color: #333;
 }
 
+/* Headings */
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: #1e3d30; /* darker green heading */
+  margin-top: 2rem;
+}
+
+/* Body text */
+.page__content {
+  font-family: "Helvetica Neue", sans-serif;
+  line-height: 1.75;
+  font-size: 1.05rem;
+  color: #333;
+}
+
+/* Gallery captions */
+.gallery-caption {
+  color: #666;
+}
+
+/* Links */
+a {
+  color: #2f8f68;
+}
+a:hover {
+  color: #1e6b4d;
+}
