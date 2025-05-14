@@ -96,7 +96,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+      css: /assets/css/custom.css
 
 # Blog archive pages — okay to keep, even if not used yet
 category_archive:
