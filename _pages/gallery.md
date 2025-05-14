@@ -13,42 +13,46 @@ Our farm is more than a place — it's a story of heritage, care, and quality in
 
 ---
 
-<p align="center">
-  <img src="/assets/images/gallery1.jpeg" alt="Drying Beds" style="width:100%; max-width:700px; border-radius:8px;" /><br>
-  <em>Hand-sorting green coffee under shade for quality control</em>
-</p>
+<div style="display: flex; flex-direction: column; gap: 2rem;">
 
-<p align="center">
-  <img src="/assets/images/gallery2.jpeg" alt="Community Hub" style="width:100%; max-width:700px; border-radius:8px;" /><br>
-  <em>Our team and community gathered at the farm's hub</em>
-</p>
+  <div>
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery1.jpeg" alt="Drying Beds" style="width:100%; max-width:800px; border-radius: 8px;" />
+    <p style="text-align:center;">Hand-sorting green coffee under shade for quality control</p>
+  </div>
 
-<p align="center">
-  <img src="/assets/images/gallery3.jpeg" alt="Careful Drying" style="width:100%; max-width:700px; border-radius:8px;" /><br>
-  <em>Careful drying ensures even moisture and quality</em>
-</p>
+  <div>
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery2.jpeg" alt="Community Hub" style="width:100%; max-width:800px; border-radius: 8px;" />
+    <p style="text-align:center;">Our team and community gathered at the farm's hub</p>
+  </div>
 
-<p align="center">
-  <img src="/assets/images/gallery4.jpeg" alt="Farm Landscape" style="width:100%; max-width:700px; border-radius:8px;" /><br>
-  <em>Guji’s fertile land — where it all begins</em>
-</p>
+  <div>
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery3.jpeg" alt="Careful Drying" style="width:100%; max-width:800px; border-radius: 8px;" />
+    <p style="text-align:center;">Careful drying ensures even moisture and quality</p>
+  </div>
 
-<p align="center">
-  <img src="/assets/images/gallery5.jpeg" alt="Cherries in Hand" style="width:100%; max-width:700px; border-radius:8px;" /><br>
-  <em>Ripe cherries, hand-picked at peak ripeness</em>
-</p>
+  <div>
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery4.jpeg" alt="Farm Landscape" style="width:100%; max-width:800px; border-radius: 8px;" />
+    <p style="text-align:center;">Guji’s fertile land — where it all begins</p>
+  </div>
 
-<p align="center">
-  <img src="/assets/images/gallery6.jpeg" alt="Sun Drying" style="width:100%; max-width:700px; border-radius:8px;" /><br>
-  <em>Sun-drying cherries for flavor clarity and consistency</em>
-</p>
+  <div>
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery5.jpeg" alt="Cherries in Hand" style="width:100%; max-width:800px; border-radius: 8px;" />
+    <p style="text-align:center;">Ripe cherries, hand-picked at peak ripeness</p>
+  </div>
 
-<p align="center">
-  <img src="/assets/images/gallery7.jpeg" alt="Raised Beds" style="width:100%; max-width:700px; border-radius:8px;" /><br>
-  <em>Raised beds enhance air flow for even drying</em>
-</p>
+  <div>
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery6.jpeg" alt="Sun Drying" style="width:100%; max-width:800px; border-radius: 8px;" />
+    <p style="text-align:center;">Sun-drying cherries for flavor clarity and consistency</p>
+  </div>
 
-<p align="center">
-  <img src="/assets/images/gallery8.jpeg" alt="Daily Inspection" style="width:100%; max-width:700px; border-radius:8px;" /><br>
-  <em>Daily inspections during drying for optimal results</em>
-</p>
+  <div>
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery7.jpeg" alt="Raised Beds" style="width:100%; max-width:800px; border-radius: 8px;" />
+    <p style="text-align:center;">Raised beds enhance air flow for even drying</p>
+  </div>
+
+  <div>
+    <img src="/gedefaws-mbcoffee.github.io/assets/images/gallery8.jpeg" alt="Daily Inspection" style="width:100%; max-width:800px; border-radius: 8px;" />
+    <p style="text-align:center;">Daily inspections during drying for optimal results</p>
+  </div>
+
+</div>
