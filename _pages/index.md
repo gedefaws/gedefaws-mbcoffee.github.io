@@ -3,6 +3,10 @@ title: "Welcome to MB Coffee"
 layout: single
 permalink: /
 author_profile: false
+header:
+  overlay_image: /assets/images/hero-cherries.jpeg
+  overlay_filter: 0.3
+  caption: "Guji, Ethiopia – Harvesting excellence, cherry by cherry"
 ---
 
 ### 🌍 From Guji to the Globe
