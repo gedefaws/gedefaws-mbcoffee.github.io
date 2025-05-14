@@ -13,13 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: /assets/images/mb-logo.png
-email: mbcoffee@gmail.com
+title: MB Coffee Farm
+logo: /assets/images/mb-logo.png
+email: mbcoffeefarm@gmail.com
 description: >-   
   Premium Guji coffee directly from our family farm in Ethiopia.
 twitter_username: 
 github_username: 
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
