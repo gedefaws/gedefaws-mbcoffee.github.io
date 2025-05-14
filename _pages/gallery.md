@@ -48,37 +48,37 @@ Our farm is more than a place — it's a story of heritage, care, and quality in
 
   <div class="gallery-item">
     <img src="../assets/images/gallery2.jpeg" alt="Community Hub">
-    <div class="gallery-caption">Our team and community gathered at the farm's hub</div>
-  </div>
-
-  <div class="gallery-item">
-    <img src="../assets/images/gallery3.jpeg" alt="Careful Drying">
-    <div class="gallery-caption">Careful drying ensures even moisture and quality</div>
-  </div>
-
-  <div class="gallery-item">
-    <img src="../assets/images/gallery4.jpeg" alt="Farm Landscape">
-    <div class="gallery-caption">Guji’s fertile land — where it all begins</div>
-  </div>
-
-  <div class="gallery-item">
-    <img src="../assets/images/gallery5.jpeg" alt="Cherries in Hand">
-    <div class="gallery-caption">Ripe cherries, hand-picked at peak ripeness</div>
-  </div>
-
-  <div class="gallery-item">
-    <img src="../assets/images/gallery6.jpeg" alt="Sun Drying">
     <div class="gallery-caption">Sun-drying cherries for flavor clarity and consistency</div>
   </div>
 
   <div class="gallery-item">
-    <img src="../assets/images/gallery7.jpeg" alt="Raised Beds">
+    <img src="../assets/images/gallery3.jpeg" alt="Careful Drying">
+    <div class="gallery-caption">Guji’s fertile land — where it all begins</div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="../assets/images/gallery4.jpeg" alt="Farm Landscape">
     <div class="gallery-caption">Raised beds enhance air flow for even drying</div>
   </div>
 
   <div class="gallery-item">
-    <img src="../assets/images/gallery8.jpeg" alt="Daily Inspection">
+    <img src="../assets/images/gallery5.jpeg" alt="Cherries in Hand">
     <div class="gallery-caption">Daily inspections during drying for optimal results</div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="../assets/images/gallery6.jpeg" alt="Sun Drying">
+    <div class="gallery-caption">Careful drying ensures even moisture and quality</div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="../assets/images/gallery7.jpeg" alt="Raised Beds">
+    <div class="gallery-caption">Ripe cherries, hand-picked at peak ripeness</div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="../assets/images/gallery8.jpeg" alt="Daily Inspection">
+    <div class="gallery-caption">Our team and community gathered at the farm's hub</div>
   </div>
 
 </div>
