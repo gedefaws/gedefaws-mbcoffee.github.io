@@ -88,7 +88,7 @@ defaults:
       comments: true
       share: true
       related: true
-      css: /assets/css/custom.css
+      css: /assets/css/main.scss
   # Specifically for pages in the _pages folder (like home.md, about.md, etc.)
   - scope:
       path: "_pages"
@@ -96,7 +96,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      css: /assets/css/custom.css
+      css: /assets/css/main.scss
 
 # Blog archive pages — okay to keep, even if not used yet
 category_archive:
