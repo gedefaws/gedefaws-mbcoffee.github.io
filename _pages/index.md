@@ -10,7 +10,7 @@ author_profile: false
 header:
   overlay_image: /assets/images/hero-cherries.jpeg
   overlay_filter: 0.3
-  overlay_height: 80vh
+  overlay_height: 50vh
   caption: "Guji, Ethiopia – Harvesting excellence, cherry by cherry"
 ---
 
