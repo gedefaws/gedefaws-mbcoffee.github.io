@@ -13,7 +13,7 @@ header:
   caption: "Guji, Ethiopia – Harvesting excellence, cherry by cherry"
 ---
 
-### 🌍 From Guji to the Globe
+### 🌍 From Guji to the Globe 
 
 Welcome to **MB Coffee** — where passion, heritage, and specialty coffee meet.
 
