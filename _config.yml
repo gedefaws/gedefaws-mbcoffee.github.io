@@ -79,9 +79,9 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
       css: /assets/css/main.scss
   # Specifically for pages in the _pages folder (like home.md, about.md, etc.)
   - scope:
