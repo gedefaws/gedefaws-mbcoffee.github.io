@@ -2,6 +2,10 @@
 title: "Contact"
 permalink: /contact/
 layout: single
+read_time: false
+share: false
+comments: false
+related: false
 author_profile: false
 ---
 
