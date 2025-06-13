@@ -55,3 +55,35 @@ a {
 a:hover {
   color: #1e6b4d;
 }
+
+.page__hero--overlay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  min-height: 100vh;
+  padding: 0;
+}
+
+.page__hero--overlay .page__title {
+  color: white;
+  font-size: 3.5rem;
+  margin: 0 0 1rem;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+}
+
+.page__hero--overlay .btn {
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+  padding: 0.7rem 1.4rem;
+  font-size: 1rem;
+  transition: background 0.3s ease;
+}
+
+.page__hero--overlay .btn:hover {
+  background: white;
+  color: #0b3d26;
+}
+
