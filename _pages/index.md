@@ -1,6 +1,10 @@
 ---
 title: "Welcome to MB Coffee"
 layout: single
+read_time: false
+share: false
+comments: false
+related: false
 permalink: /
 author_profile: false
 header:
