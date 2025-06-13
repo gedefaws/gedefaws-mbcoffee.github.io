@@ -26,8 +26,22 @@ body {
   font-family: "Helvetica Neue", sans-serif;
   line-height: 1.75;
   font-size: 1.05rem;
-  color: #333;
+  color: #f5f5f5; /* Light color for readability */
 }
+
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: #ffffff; /* Headings should also be bright */
+}
+
+a {
+  color: #87e7c0; /* Soft mint that pops on dark green */
+}
+a:hover {
+  color: #c8ffe0;
+}
+
 
 /* Gallery captions */
 .gallery-caption {
